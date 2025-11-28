@@ -1,0 +1,5 @@
+{
+  "name": "MotivaAI",
+  "description": "A motivational quote generator featuring standard quotes and AI-powered personalized inspiration.",
+  "requestFramePermissions": []
+}
